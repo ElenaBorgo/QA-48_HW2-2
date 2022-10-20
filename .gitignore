@@ -3,6 +3,7 @@ out/
 .idea/
 .iml
 .idea/workspace.xml
+.xml/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
